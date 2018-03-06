@@ -1,4 +1,4 @@
-package com.netty;
+package com.netty.server;
 
 
 import org.jboss.netty.bootstrap.ServerBootstrap;
