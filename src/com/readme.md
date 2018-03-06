@@ -1,18 +1,18 @@
-###java高级 学习
+### java高级 学习
 
-#####1.generic  泛型<? extend T> 
+##### 1.generic  泛型<? extend T> 
 
-#####2.netty netty实例
+##### 2.netty netty实例
 
-#####3.nio nio学习和实例
+##### 3.nio nio学习和实例
 
-#####4.reflection 反射学习和实例
+##### 4.reflection 反射学习和实例
 
-#####5.thread 多线程学习
+##### 5.thread 多线程学习
 
-#####6.generic 泛型
+##### 6.generic 泛型
 
-#####7.jdbc
+##### 7.jdbc
 
 #####
 
